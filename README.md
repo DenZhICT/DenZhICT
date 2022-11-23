@@ -1,5 +1,5 @@
 # - :wave: Приветсвую, меня зовут Денис!
-# - :feelsgood: У меня есть один небольшой проектик:point_right::point_left:
+# - :put_litter_in_its_place: У меня есть один небольшой проектик:point_right::point_left:
 
 # <a target="_blank" href="https://github.com/DenZhICT/QAProject">Проект: Автоматизации тестирования</a>
 

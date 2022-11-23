@@ -1,9 +1,9 @@
 # - :wave: Приветсвую, меня зовут Денис!
-# - :octocat: У меня есть один небольшой проектик:point_right::point_left:
+# - :feelsgood: У меня есть один небольшой проектик:point_right::point_left:
 
 # <a target="_blank" href="https://github.com/DenZhICT/QAProject">Проект: Автоматизации тестирования</a>
 
-## :scroll: Проекты:
+## :scroll: Подпроекты:
 
 ## <a target="_blank" href="https://github.com/DenZhICT/UIPartOfQAProject"><img src="images/screen/DNS.png" alt="DNS" width="35" height="30"/>Проект: UI Автоматизации тестирования DNS</a>
 ## <a target="_blank" href="https://github.com/DenZhICT/APIPartOfQAProject"><img src="images/screen/Reqres.png" alt="DNS" width="55" height="35"/>Проект: API Автоматизации тестирования Reqres</a>

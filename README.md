@@ -1,7 +1,7 @@
-- :wave: Приветсвую, меня зовут Денис!
-:octocat: У меня есть один небольшой проектик:point_right::point_left:
+# - :wave: Приветсвую, меня зовут Денис!
+# - :octocat: У меня есть один небольшой проектик:point_right::point_left:
 
-# Проект: Автоматизации тестирования
+# <a target="_blank" href="https://github.com/DenZhICT/QAProject">Проект: Автоматизации тестирования</a>
 
 ## :scroll: Проекты:
 
